@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "widget",
+    "owner": "cafl"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "connectivity",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
